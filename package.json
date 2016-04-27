@@ -1,0 +1,27 @@
+{
+  "name": "gar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "Gar": "StringUtility.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ck1521/GarTS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ck1521/GarTS/issues"
+  },
+  "homepage": "https://github.com/ck1521/GarTS#readme",
+  "description": ""
+}
